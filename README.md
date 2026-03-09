@@ -5,10 +5,33 @@
 - 🔭 現在はTypeScriptでツール・ゲームを作ってます
 - 🌱 学習中: Next.js, React, Game開発
 
-## スキル
-### 🛠 Language & Frameworks
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+---
 
-### ☁️ Cloud & DevOps
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+### 🛠 Tech Stack
+
+#### 🌐 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</p>
+
+#### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+</p>
+
+---
+
+### 🎓 Certifications
+技術の基礎固めとクラウドスキルを証明するため、以下の資格を保有しています。
+
+* **FE** (基本情報技術者試験)
+* **AWS** Certified Cloud Practitioner
+* **Microsoft** Certified: Azure Fundamentals (AZ-900)
+* **Oracle** Certified Java Programmer, Bronze
+
