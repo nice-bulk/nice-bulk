@@ -6,5 +6,9 @@
 - 🌱 学習中: Next.js, React, Game開発
 
 ## スキル
-<image-card alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" ></image-card>
-<image-card alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" ></image-card>
+### 🛠 Language & Frameworks
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
+### ☁️ Cloud & DevOps
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
