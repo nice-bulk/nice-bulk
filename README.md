@@ -30,8 +30,10 @@
 ### 🎓 Certifications
 技術の基礎固めとクラウドスキルを証明するため、以下の資格を保有しています。
 
-* **FE** (基本情報技術者試験)
-* **AWS** Certified Cloud Practitioner
-* **Microsoft** Certified: Azure Fundamentals (AZ-900)
-* **Oracle** Certified Java Programmer, Bronze
+<p>
+<img src="https://img.shields.io/badge/-基本情報技術者-005192?style=for-the-badge&logo=applied-intelligence&logoColor=white" alt="FE">
+<img src="https://img.shields.io/badge/-AWS%20CLF-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLF">
+<img src="https://img.shields.io/badge/-Microsoft%20AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-900">
+<img src="https://img.shields.io/badge/-Oracle%20Java%20Bronze-E71519?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Bronze">
+</p>
 
